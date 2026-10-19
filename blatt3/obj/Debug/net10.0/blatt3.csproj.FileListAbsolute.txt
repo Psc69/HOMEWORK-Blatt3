@@ -1,0 +1,15 @@
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\bin\Debug\net10.0\blatt3.exe
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\bin\Debug\net10.0\blatt3.deps.json
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\bin\Debug\net10.0\blatt3.runtimeconfig.json
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\bin\Debug\net10.0\blatt3.dll
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\bin\Debug\net10.0\blatt3.pdb
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\obj\Debug\net10.0\blatt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\obj\Debug\net10.0\blatt3.AssemblyInfoInputs.cache
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\obj\Debug\net10.0\blatt3.AssemblyInfo.cs
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\obj\Debug\net10.0\blatt3.csproj.CoreCompileInputs.cache
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\obj\Debug\net10.0\blatt3.sourcelink.json
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\obj\Debug\net10.0\blatt3.dll
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\obj\Debug\net10.0\refint\blatt3.dll
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\obj\Debug\net10.0\blatt3.pdb
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\obj\Debug\net10.0\blatt3.genruntimeconfig.cache
+C:\Users\dariu\OneDrive\Desktop\code\C# Scripts\blatt3\Blatt3\blatt3\obj\Debug\net10.0\ref\blatt3.dll
